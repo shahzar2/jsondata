@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "Alice", "pass": "Alice", "role": "admin", "datetime": "121325-121212",  },
+    { "id": 2, "name": "Alice", "pass": "Alice", "role": "public", "datetime": "121325-121212",  },
+    { "id": 3, "name": "Alice", "pass": "Alice", "role": "staff", "datetime": "121325-121212",  },
+    { "id": 4, "name": "Alice", "pass": "Alice", "role": "none", "datetime": "121325-121212",  }
+  ]
+}
